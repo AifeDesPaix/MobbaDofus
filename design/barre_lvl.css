@@ -1,0 +1,11 @@
+#bl_BarreLevel {
+	display: block;
+	position: absolute;
+	top: 0;
+	width: 50%;
+	height: 8%;
+	left: 25%;
+	background-color: red;
+	background-size: 100%;
+	background-repeat: no-repeat;	
+}

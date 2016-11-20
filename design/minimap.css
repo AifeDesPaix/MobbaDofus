@@ -1,0 +1,15 @@
+/* Ici, tout commence par mm_**** */
+
+#mm_minimap {
+	display: block;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 20%;
+	height: 20%;
+}
+
+#img_minimap {
+	margin: 0;
+	padding: 0;
+}
